@@ -8,7 +8,7 @@ FoxEngine is the first programming project that involved instance reading and Yo
 ## Current Features
 - Running around in the void.
 
-## Upcoming Features
+## *Potential* Upcoming Features
 - Potenial revisit to change code structure
 - Add entities
 - Add Weapons
