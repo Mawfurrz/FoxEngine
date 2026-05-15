@@ -1,0 +1,56 @@
+# ==========================================
+# Compiled Java Classes & Build Artifacts
+# ==========================================
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Default build directories
+bin/
+build/
+dist/
+target/
+out/
+
+# ==========================================
+# IDE Configurations (Contains local paths)
+# ==========================================
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# ==========================================
+# Build Tools & Package Managers
+# ==========================================
+# Maven
+.mvn/
+
+# Gradle
+.gradle/
+/build/
+
+# ==========================================
+# OS Specific Files
+# ==========================================
+Thumbs.db
+.DS_Store
